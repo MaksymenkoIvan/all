@@ -1,0 +1,10 @@
+{
+    "api_tokens": {
+        "telegram": "1440936456:AAELA2xKObEw7qYQpXahKE-YdGxMPUhK1gQ",
+        "pixabay": "<your pixabay API token>",
+        "gifme": "rX7kbMzkGu7WJwvG",
+        "giphy": "dc6zaTOxFJmzC",
+        "alphacoders": "<your alphacoders API token>",
+        "mashape": "<your Mashape API token>"
+    }
+}
